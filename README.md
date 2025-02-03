@@ -10,5 +10,5 @@ Explorador de Recetas es una aplicación web que permite visualizar diferentes t
 - 🎨 **JSP, HTML, CSS**  
 
 ## 📷 Capturas de pantalla
-![Index Principal]("assets\index.png")
-![2da Imagen]("assets\recetaPizza.png")
+![Index Principal]("assets/index.png")
+![2da Imagen]("assets/recetaPizza.png")
